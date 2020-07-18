@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Learning Priposition</title>
+        <style>
+        h1{color:rgb(33, 5, 250);}
+        h2{color:rgb(250, 10, 10);}    
+        h3{color:rgb(250, 10, 214);}    
+        strong{color:rgb(9, 143, 153);} 
+        em{color:rgb(42, 5, 252);}
+         h1{background-color:rgb(168, 183, 227);}   
+          h2{background-color:rgb(227, 214, 232);}  
+            
+           body{background-color:rgb(237, 245, 244);} 
+        
+        
+        .preposition-info{color:rgb(53, 153, 31);}
+        #ppty{background-color:rgb(211, 125, 245);}
+        </style>
+        
+        
+    </head>
+    <body>
+    
+        <h1>Learning Priposition</h1>
+        
+        <h2 class="preposition-info">Question no 1</h2>
+        
+         <h3 id="ppty">what is preposition?</h3>
+        <p><strong>A word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause</strong>, as in ‘the man <em>on</em> the platform’, ‘she arrived <em>after</em> dinner’, ‘what did you do it <em>for</em> ?’.<br><img src="https://www.kasandbox.org/programming-images/avatars/starky-seedling.png"alt="evilest priposition"><img src="https://www.kasandbox.org/programming-images/avatars/starky-tree.png"alt="evilest priposition"> </p>
+        
+        
+        
+        <h2>Question no 2</h2>
+        <h3>why we need preposition?</h3>
+        <ul><li>because they are very <em>importent</em> part of the sentences.</li><li>they can <em>connect</em> sentences.</li><li>the make the sentences more <em>useful</em> and <em>understable</em>.<img src="https://www.kasandbox.org/programming-images/avatars/starky-ultimate.png"alt="evilest priposition"></li></ul>
+        
+    <h3></h3>    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </body>
+</html>
